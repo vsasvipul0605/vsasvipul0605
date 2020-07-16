@@ -1,4 +1,5 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://user-images.githubusercontent.com/47572837/87729830-e0b9d480-c7e3-11ea-9a6e-181a6eb1919e.png" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="![419-4198714_github-logo-png-transparent-transparent-github-logo-png](https://user-images.githubusercontent.com/47572837/87730028-56be3b80-c7e4-11ea-8f99-c240276d5943.png)
+" width="30px"></h2>
 
 <img align='right' src='https://netbramha.com/wp-content/uploads/2016/12/front-end-developers-openings-1.gif' width='300"'>
 
