@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://user-images.githubusercontent.com/47572837/87730028-56be3b80-c7e4-11ea-8f99-c240276d5943.png" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://netbramha.com/wp-content/uploads/2016/12/front-end-developers-openings-1.gif' width='300"'>
 
