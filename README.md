@@ -1,7 +1,11 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://user-images.githubusercontent.com/47572837/87729830-e0b9d480-c7e3-11ea-9a6e-181a6eb1919e.png" width="30px"></h2>
 
-<img align='right' src='https://netbramha.com/wp-content/uploads/2016/12/front-end-developers-openings-1.gif' width='200"'>
+<img align='right' src='https://netbramha.com/wp-content/uploads/2016/12/front-end-developers-openings-1.gif' width='500"'>
 
+[![Twitter Badge](https://img.shields.io/badge/-@vsasvipul_06-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vsasvipul_06)](https://twitter.com/vsasvipul_06) 
+[![Linkedin Badge](https://img.shields.io/badge/-VipulSinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vipul-sinha-4b7b82b2/)](https://www.linkedin.com/in/vipul-sinha-4b7b82b2/) 
+[![StackOverflow Badge](https://img.shields.io/badge/-VipulSinha-grey?style=flat-square&logo=StackOverflow&logoColor=orange&link=https://stackoverflow.com/users/11052499/vipul-sinha?tab=profile)](https://stackoverflow.com/users/11052499/vipul-sinha?tab=profile)
+[![Gmail Badge](https://img.shields.io/badge/-vsasvipul@gmail.com-A9A9A9?style=flat-square&logo=Gmail&logoColor=red&link=mailto:vsasvipul@gmail.com)](mailto:vsasvipul@gmail.com)
 <!--
 **vsasvipul0605/vsasvipul0605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
