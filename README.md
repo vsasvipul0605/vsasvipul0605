@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://user-images.githubusercontent.com/47572837/87729830-e0b9d480-c7e3-11ea-9a6e-181a6eb1919e.png" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://user-images.githubusercontent.com/47572837/87729830-e0b9d480-c7e3-11ea-9a6e-181a6eb1919e.png" width="30px" style="margin-bottom: 0; padding-bottom: 0;"></h2>
 
 <!--
 **vsasvipul0605/vsasvipul0605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
