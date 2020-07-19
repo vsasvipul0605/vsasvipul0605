@@ -17,11 +17,11 @@ I am Vipul Sinha 😃. I am 3rd year student doing my B.Tech from Chitkara Unive
 Talk to me about
 - Front-end development
     - **HTML**
-    - CSS [ **bootstrap, tailwind** ]
-    - JS: [ **React, Next.js** ]
+    - **CSS** [ **bootstrap, tailwind** ]
+    - **JS** : [ **React, Next.js** ]
 - Back-end development
-    - JS: [ **node.js, express** ]
-    - Python [ **django** ] *still learning*
+    - **JS : [ **node.js, express** ]
+    - **Python [ **django** ] *still learning*
 
 
 
