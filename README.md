@@ -15,7 +15,10 @@ I am Vipul Sinha 😃. I am 3rd year student doing my B.Tech from Chitkara Unive
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, Javascript,CSS,Bootstrap**
+- Front-end development
+    - **HTML**
+    - CSS [**bootstrap, tailwind**]
+    - js: [ **React, Next.js**]
 
 
 
