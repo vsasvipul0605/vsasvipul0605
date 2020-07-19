@@ -18,7 +18,7 @@ Talk to me about
 - Front-end development
     - **HTML**
     - CSS [**bootstrap, tailwind**]
-    - js: [ **React, Next.js**]
+    - JS: [ **React, Next.js**]
 
 
 
