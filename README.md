@@ -13,6 +13,12 @@
 
 I am Vipul Sinha 😃. I am 3rd year student doing my B.Tech from Chitkara University, Punjab. I love to learn new things and explore my skills.
 
+## ⚡ Technologies
+Talk to me about
+- Front-end development using **HTML, Javascript,CSS,Bootstrap**
+
+
+
 <!--
 **vsasvipul0605/vsasvipul0605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
