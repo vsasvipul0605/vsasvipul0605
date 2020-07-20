@@ -1,6 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://netbramha.com/wp-content/uploads/2016/12/front-end-developers-openings-1.gif' width='300'>
+<img align='right' src='https://netbramha.com/wp-content/uploads/2016/12/front-end-developers-openings-1.gif' width='200'>
 
 [![Twitter Badge](https://img.shields.io/badge/-@vsasvipul_06-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vsasvipul_06)](https://twitter.com/vsasvipul_06) 
 [![Linkedin Badge](https://img.shields.io/badge/-VipulSinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vipul-sinha-4b7b82b2/)](https://www.linkedin.com/in/vipul-sinha-4b7b82b2/) 
