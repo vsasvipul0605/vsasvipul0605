@@ -20,8 +20,8 @@ Talk to me about
     - **CSS** [ **bootstrap, tailwind** ]
     - **JS** : [ **React, Next.js** ]
 - Back-end development
-    - **JS : [ **node.js, express** ]
-    - **Python [ **django** ] *still learning*
+    - **JS** : [ **node.js, express** ]
+    - **Python** [ **django** ] *still learning*
 
 
 
@@ -39,3 +39,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Chocolate is happiness that you can eat.
