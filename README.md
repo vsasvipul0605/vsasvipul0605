@@ -35,8 +35,8 @@ Talk to me about
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Chocolate is happiness that you can eat.
 
-![Vipul's github stats](https://github-readme-stats.vercel.app/api?username=vsasvipul0605&hide=["issues"]&show_icons=true)
-<img src="https://github-readme-stats.vercel.app/api?username=vsasvipul0605&&show_icons=true" width="100%"/>
+<!-- ![Vipul's github stats](https://github-readme-stats.vercel.app/api?username=vsasvipul0605&hide=["issues"]&show_icons=true) -->
+<img src="https://github-readme-stats.vercel.app/api?username=vsasvipul0605&&show_icons=true" width="100%" height="50%"/>
 
 <!--
 **vsasvipul0605/vsasvipul0605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
