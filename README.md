@@ -36,7 +36,7 @@ Talk to me about
 - ⚡ Fun fact: Chocolate is happiness that you can eat.
 
 ![Vipul's github stats](https://github-readme-stats.vercel.app/api?username=vsasvipul0605&hide=["issues"]&show_icons=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=vsasvipul0605&hide=['issues']&show_icons=true" width="100%"/>
 
 <!--
 **vsasvipul0605/vsasvipul0605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
