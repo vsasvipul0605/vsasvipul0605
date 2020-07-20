@@ -11,7 +11,7 @@
 [![CodePen Badge](https://img.shields.io/badge/-vsasvipul0605-black?style=flat-square&logo=codepen&link=https://codepen.io/vsasvipul0605/pens/)](https://codepen.io/vsasvipul0605/pens/)
 
 
-I am Vipul Sinha 😃. I am 3rd year student doing my B.Tech from Chitkara University, Punjab. I love to learn new things and explore my skills.
+I am Vipul Sinha 😃. I am 3rd year student doing my B.Tech from Chitkara University, Punjab. I love to learn new skills.
 
 ## ⚡ Technologies
 Talk to me about
