@@ -22,6 +22,9 @@ Talk to me about
 - Back-end development
     - **JS** : [ **node.js, express** ]
     - **Python** [ **django** ] *still learning*
+- Database
+    - MongoDB
+- Solving DS & Algo questions in Python, Javascript and Java.
 
 
 
