@@ -27,6 +27,10 @@ Talk to me about
 - Solving DS & Algo questions in Python, Javascript and Java.
 
 ## Hello World!! 🤔
+- 💬 Ask me about Web Development.
+- 🌱 I’m currently learning Django.
+- 📫 How to reach me: Connect with me on any above provided social handle.
+- ⚡ Fun fact: Chocolate is happiness that you can eat.
 
 
 
@@ -44,4 +48,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Chocolate is happiness that you can eat.
