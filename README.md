@@ -7,7 +7,7 @@
 [![StackOverflow Badge](https://img.shields.io/badge/-VipulSinha-grey?style=flat-square&logo=StackOverflow&logoColor=orange&link=https://stackoverflow.com/users/11052499/vipul-sinha?tab=profile)](https://stackoverflow.com/users/11052499/vipul-sinha?tab=profile)
 [![Gmail Badge](https://img.shields.io/badge/-vsasvipul@gmail.com-A9A9A9?style=flat-square&logo=Gmail&logoColor=red&link=mailto:vsasvipul@gmail.com)](mailto:vsasvipul@gmail.com)
 [![Gitlab Badge](https://img.shields.io/badge/-vsasvipul0605-292961?style=flat-square&logo=Gitlab&link=https://gitlab.com/vsasvipul0605)](https://gitlab.com/vsasvipul0605)
-[![Gitlab Badge](https://img.shields.io/badge/-vsasvipul-darkgreen?style=flat-square&logo=freeCodeCamp&link=https://www.freecodecamp.org/vsasvipul)](https://www.freecodecamp.org/vsasvipul)
+[![FreeCodeCamp Badge](https://img.shields.io/badge/-vsasvipul-darkgreen?style=flat-square&logo=freeCodeCamp&link=https://www.freecodecamp.org/vsasvipul)](https://www.freecodecamp.org/vsasvipul)
 [![CodePen Badge](https://img.shields.io/badge/-vsasvipul0605-black?style=flat-square&logo=codepen&link=https://codepen.io/vsasvipul0605/pens/)](https://codepen.io/vsasvipul0605/pens/)
 
 
