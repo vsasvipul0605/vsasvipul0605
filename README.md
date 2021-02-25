@@ -31,7 +31,7 @@ Talk to me about
 
 ## Hello World!! 🤔
 - 💬 Ask me about Web Development.
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently solving DSA questions.
 - 📫 How to reach me: Connect with me on any above provided social handle.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Chocolate is happiness that you can eat.
