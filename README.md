@@ -12,7 +12,7 @@
 [![CodePen Badge](https://img.shields.io/badge/-vsasvipul0605-black?style=flat-square&logo=codepen&link=https://codepen.io/vsasvipul0605/pens/)](https://codepen.io/vsasvipul0605/pens/)
 
 
-I am Vipul Sinha 😃. I am 3rd year student doing my B.Tech from Chitkara University, Punjab. I love to learn new skills.
+I am Vipul Sinha 😃. Currently, I am working on SQL Server in my organization but I love learning new skills.
 
 ## ⚡ Technologies
 Talk to me about
@@ -22,30 +22,23 @@ Talk to me about
     - **JS** : [ **VanillaJS, React, Next.js** ]
 - Back-end development
     - **JS** : [ **node.js, express** ]
-    - **Python** [ **django** ] *basics*
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
 
 - Database
     - **MongoDB**
-- Solving DS & Algo questions in **Python**, **Javascript** and **Java**.
+    - **SSMS(SQL Server Management Studio)**
+Just started solving DS & Algo questions in **Python**.
 
 ## Hello World!! 🤔
-- 💬 Ask me about Web Development.
+- 💬 Ask me about SQL.
 - 🌱 I’m currently solving DSA questions.
-- 📫 How to reach me: Connect with me on any above provided social handle.
+- 📫 Connect with me on any of the mentioned social handle.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Chocolate is happiness that you can eat.
+- ⚡ Fun fact: Internet users generate about 2.5 quintillion bytes of data each day.
+
 
 <!-- ![Vipul's github stats](https://github-readme-stats.vercel.app/api?username=vsasvipul0605&hide=["issues"]&show_icons=true) -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vsasvipul0605&&show_icons=true" width="75%" height="50%"/>
 </p>
 <!--
-**vsasvipul0605/vsasvipul0605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--->
