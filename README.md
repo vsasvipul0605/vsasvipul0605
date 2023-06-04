@@ -12,7 +12,7 @@
 [![CodePen Badge](https://img.shields.io/badge/-vsasvipul0605-black?style=flat-square&logo=codepen&link=https://codepen.io/vsasvipul0605/pens/)](https://codepen.io/vsasvipul0605/pens/)
 
 
-I am Vipul Sinha 😃. Currently, I am working on SQL Server in my organization but I love learning new skills.
+I am Vipul Sinha 😃. Currently, I am working as Software Developer in CG Infinity, Noida but I love upskilling my skills.
 
 ## ⚡ Technologies
 Talk to me about
@@ -26,12 +26,12 @@ Talk to me about
     - **MongoDB**
     - **SSMS(SQL Server Management Studio)**
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
-Just started solving DSA questions in **Python**.
+Currently solving DSA questions in **Java.**
 
 ## Hello World!! 🤔
-- 💬 Ask me about SQL.
-- 🌱 I’m currently solving DSA questions.
-- 📫 Connect with me on any of the mentioned social handle.
+- 💬 Ask me about JS/Java/SQL.
+- 🌱 I’m currently watching TBBT.
+- 📫 Connect with me on above mentioned social handle.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Internet users generate about 2.5 quintillion bytes of data each day.
 
